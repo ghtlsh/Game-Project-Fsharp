@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VAJv8aQFXhw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\merry\\OneDrive\\바탕 화면\\2026봄학기\\프로그래밍의이해\\Project\\Project.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merry\\.nuget\\packages\\fsharp.core\\10.0.108\\fsharp.core.10.0.108.nupkg.sha512"
+  ],
+  "logs": []
+}
