@@ -135,7 +135,7 @@ let printTurnHeader (turnNumber: int) =
     Console.ForegroundColor <- ConsoleColor.Cyan
     printfn "╔════════════════════════════════════╗"
     printfn "║          TURN %d                    ║" turnNumber
-    printfn "╔════════════════════════════════════╗"
+    printfn "╚════════════════════════════════════╝"
     Console.ResetColor()
 
 // 아무 키나 눌러서 계속하기
