@@ -27,3 +27,4 @@ C:\Users\merry\OneDrive\바탕 화면\2026봄학기\프로그래밍의이해\Pro
 C:\Users\merry\OneDrive\바탕 화면\2026봄학기\프로그래밍의이해\Project\obj\Debug\net10.0\Project.pdb
 C:\Users\merry\OneDrive\바탕 화면\2026봄학기\프로그래밍의이해\Project\obj\Debug\net10.0\Project.genruntimeconfig.cache
 C:\Users\merry\OneDrive\바탕 화면\2026봄학기\프로그래밍의이해\Project\obj\Debug\net10.0\ref\Project.dll
+C:\Users\merry\OneDrive\바탕 화면\2026봄학기\프로그래밍의이해\Project\obj\Debug\net10.0\Project.sourcelink.json
