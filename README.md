@@ -2,7 +2,9 @@
 
 A command-line turn-based battle game built with **F# / .NET 10**.
 
-You play as a **🧙 Player** who faces a fearsome **👹 Enemy**. Each turn you choose to **Attack** or **Defend**. Defeat the enemy before your HP hits zero!
+You play as a **🧙 Player** who faces a fearsome **👹 Enemy**. 
+Each turn you choose to **Attack** or **Defend**. 
+Defeat the enemy before your HP hits zero!
 
 ---
 
@@ -94,16 +96,16 @@ The game satisfies the following testable requirements:
 1. The game runs from the command line with `dotnet run` and requires no additional setup beyond .NET 10.
 2. The player character has 30 HP and 5 ATK. The enemy has 20 HP and 4 ATK.
 3. Each turn the player is presented with exactly two actions: Attack and Defend.
-4. Choosing Attack reduces the enemy's HP by the player's ATK value (5).
-5. Attack has a 20% probability of dealing a Critical Hit (2× ATK = 10 damage).
-6. Choosing Defend reduces incoming enemy damage this turn by 50%.
-7. After the player acts, the enemy attacks the player (unless already dead).
-8. The enemy has a 20% probability of landing a Critical Hit (2× ATK = 8 damage).
-9. The HP bar changes colour (green → yellow → red) as HP decreases.
-10. The game ends in victory when the enemy's HP reaches 0 or below.
-11. The game ends in defeat when the player's HP reaches 0 or below.
-12. After the game ends, the player is offered a play-again prompt (`y`/`n`).
-13. Invalid input (anything other than `1` or `2`) re-prompts without crashing.
+4. Invalid input (anything other than `1` or `2`) re-prompts without crashing.
+5. Choosing Attack reduces the enemy's HP by the player's ATK value (5).
+6. Attack has a 20% probability of dealing a Critical Hit (2× ATK = 10 damage).
+7. Choosing Defend reduces incoming enemy damage this turn by 50%.
+8. After the player acts, the enemy attacks the player (unless already dead).
+9. The enemy has a 20% probability of landing a Critical Hit (2× ATK = 8 damage).
+10. The HP bar changes colour (green → yellow → red) as HP decreases.
+11. The game ends in victory when the enemy's HP reaches 0 or below.
+12. The game ends in defeat when the player's HP reaches 0 or below.
+13. After the game ends, the player is offered a play-again prompt (`y`/`n`).
 
 ---
 
